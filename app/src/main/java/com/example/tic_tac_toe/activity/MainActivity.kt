@@ -1,4 +1,4 @@
-package com.example.tic_tac_toe
+package com.example.tic_tac_toe.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
