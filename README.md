@@ -1,2 +1,2 @@
 # TicTacToe
-Tic Tac Toe game using Android and Ktr using Jetpack compose
+Tic Tac Toe game build using Android and Ktr using Jetpack compose
